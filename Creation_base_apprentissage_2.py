@@ -304,22 +304,12 @@ def Selection_sequences_par_fichier(log_selection,Nb_caractere_sortie,Nombre_de_
     fichier_source = open(log_selection, "r+")
     
     #poids_dossier_log.append(os.path.getsize(log_selection))
-    contenu = fichier_source.read().replace(" ",",").replace("\n",",").replace("	",",").replace(",,",",").replace(",,",",").replace(",,",",").replace(",,",",")
-    new_contenu = ""
-    mots = contenu.split(",")
+    contenu = fichier_source.read().replace("(","").replace(")","").replace("{","").replace("}","").replace("[","").replace("]","").replace("<","").replace(">","").replace("	"," ")
+
+    mots = contenu.split(" ")
     fichier_source.close()
-
-    for m in range(0,len(mots)-2):
-        mot=mots[m]
-        if len(mot)<Nb_caractere_sortie:
-            new_contenu = new_contenu + mot + ","
-        else:
-            partie_mot = len(mot)- Nb_caractere_sortie + 1
-            for y in range(0,partie_mot):
-                new_contenu = new_contenu + mot[y:y+Nb_caractere_sortie] + ","
-
-    new_contenu = new_contenu.split(",")                
-    dictionary = Counter(new_contenu)
+               
+    dictionary = Counter(mots)
     most_common = dictionary.most_common(Nombre_de_sequence)
     global Nombre_log_separe
     nb = Nombre_log_separe
