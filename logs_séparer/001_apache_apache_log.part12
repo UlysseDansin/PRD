@@ -1,0 +1,264 @@
+-2 FOUND 
+Mar 11 23:23:38 avas clamd[1723]: /var/amavis/amavis-20040311T202112-30083/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 11 23:31:57 avas clamd[1964]: /var/amavis/amavis-20040311T202855-30340/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 11 23:46:36 avas clamd[2133]: /var/amavis/amavis-20040311T201509-30023/parts/part-00003: Worm.SomeFool.Gen-1 FOUND 
+Mar 11 23:49:32 avas clamd[2192]: /var/amavis/amavis-20040311T203934-30636/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 11 23:53:55 avas dccifd[2341]: missing message body
+Mar 12 00:00:00 avas dccifd[2897]: 1.2.35 rejected messages to 0 targets and discarded messages to 0 targets among 4191 total since 03/11/04 00:00:00
+Mar 12 00:01:41 avas clamd[2513]: /var/amavis/amavis-20040311T204810-30746/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 00:02:09 avas clamd[2521]: /var/amavis/amavis-20040311T204752-30735/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 00:08:22 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 00:25:29 avas dccifd[2932]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16015 ms
+Mar 12 00:25:29 avas dccifd[2932]: write(MTA socket,5): Broken pipe
+Mar 12 00:27:48 avas dccifd[2948]: write(MTA socket,84): Broken pipe
+Mar 12 00:36:23 avas dccifd[3073]: write(MTA socket,90): Broken pipe
+Mar 12 00:43:56 avas clamd[3196]: /var/amavis/amavis-20040312T000344-01979/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 00:52:11 avas dccifd[3344]: write(MTA socket,88): Broken pipe
+Mar 12 00:56:53 avas clamd[3378]: /var/amavis/amavis-20040311T203814-30535/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 01:08:59 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 01:19:37 avas dccifd[3842]: write(MTA socket,84): Broken pipe
+Mar 12 01:36:45 avas clamd[4095]: /var/amavis/amavis-20040311T235543-01787/parts/part-00003: Worm.Cidra.D FOUND 
+Mar 12 01:49:46 avas clamd[4263]: /var/amavis/amavis-20040312T000346-01993/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 02:09:35 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 02:13:41 avas clamd[4689]: /var/amavis/amavis-20040312T010258-02944/parts/part-00005: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 02:44:24 avas clamd[5203]: /var/amavis/amavis-20040311T235314-01738/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 02:48:10 avas dccd[5237]: automatic dbclean; starting `dbclean -DPq -i 1189 -L info,local5.notice -L error,local5.err`
+Mar 12 02:48:10 avas dbclean[5237]: 1.2.35 cleaning dcc_db
+Mar 12 02:48:10 avas dccd[2818]: database cleaning begun
+Mar 12 02:53:10 avas dbclean[5237]:   processed 257 of 1054 Mbytes or 24%
+Mar 12 02:58:10 avas dbclean[5237]:   processed 437 of 1054 Mbytes or 41%
+Mar 12 03:02:19 avas dbclean[5237]:   processed 1054 of 1054 Mbytes or 100%
+Mar 12 03:02:19 avas dbclean[5237]: expired 4694567 records and 15731483 checksums in /home/dcc/dcc_db
+Mar 12 03:03:10 avas dbclean[5237]:   hash rebuilt 2614181 of 20680152 checksums or 12%
+Mar 12 03:04:58 avas dccifd[5556]: write(MTA socket,88): Broken pipe
+Mar 12 03:05:26 avas dccifd[5568]: no answer from 127.0.0.1 (127.0.0.1,6277) after 16019 ms
+Mar 12 03:05:26 avas dccifd[5568]: write(MTA socket,5): Broken pipe
+Mar 12 03:08:10 avas dbclean[5237]:   hash rebuilt 16412121 of 20680152 checksums or 79%
+Mar 12 03:08:59 avas dbclean[5237]:   hash rebuilt 20679886 of 20680152 checksums or 99%
+Mar 12 03:08:59 avas dbclean[5237]: hashed 10470795 records containing 20679886 checksums, compressed 1934177 records
+Mar 12 03:08:59 avas dbclean[5237]: 26849280 hash entries total, 15193149 or 56% used
+Mar 12 03:09:41 avas dccd[2818]: 1.2.35 database /home/dcc/dcc_db reopened with 997 MByte window
+Mar 12 03:10:12 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 03:20:14 avas clamd[5833]: /var/amavis/amavis-20040311T235314-01738/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 03:44:28 avas clamd[6196]: /var/amavis/amavis-20040312T000850-02101/parts/part-00003: Worm.Cidra.D FOUND 
+Mar 12 03:44:43 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,36651
+Mar 12 03:53:50 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,37030
+Mar 12 03:54:33 avas clamd[6376]: /var/amavis/amavis-20040312T002432-02324/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 04:07:54 avas clamd[6932]: /var/amavis/amavis-20040312T010615-03090/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 04:10:48 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 04:13:54 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,44808
+Mar 12 04:37:17 avas clamd[7337]: /var/amavis/amavis-20040312T005707-02794/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 04:55:11 avas clamd[7648]: /var/amavis/amavis-20040312T003938-02566/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:11:24 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 05:20:09 avas clamd[8116]: /var/amavis/amavis-20040312T012643-03548/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:21:23 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,43203
+Mar 12 05:23:01 avas clamd[8132]: /var/amavis/amavis-20040312T013545-03583/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:25:03 avas clamd[8150]: /var/amavis/amavis-20040312T013545-03583/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:25:42 avas clamd[8161]: /var/amavis/amavis-20040312T013545-03583/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:34:05 avas clamd[8316]: /var/amavis/amavis-20040312T010842-03200/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:39:22 avas clamd[8378]: /var/amavis/amavis-20040312T010957-03238/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 05:41:46 avas clamd[8484]: /var/amavis/amavis-20040312T001205-02151/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 05:48:21 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,44475
+Mar 12 05:48:35 avas clamd[8582]: /var/amavis/amavis-20040312T012643-03548/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 06:00:16 avas clamd[8921]: /var/amavis/amavis-20040312T060016-08486/parts/part-00004: Worm.SomeFool.I FOUND 
+Mar 12 06:12:01 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 06:18:22 avas clamd[9347]: /var/amavis/amavis-20040312T020820-03973/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:21:34 avas clamd[9474]: /var/amavis/amavis-20040312T052615-07605/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:22:56 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 207.127.164.3,52651
+Mar 12 06:24:02 avas clamd[9524]: /var/amavis/amavis-20040312T041844-06058/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:28:20 avas clamd[9550]: /var/amavis/amavis-20040312T055412-08341/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:34:02 avas clamd[9728]: /var/amavis/amavis-20040312T063402-09293/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:35:49 avas clamd[9755]: /var/amavis/amavis-20040312T060425-08530/parts/part-00002: Worm.Klez.H FOUND 
+Mar 12 06:37:32 avas clamd[9770]: /var/amavis/amavis-20040312T051529-07440/parts/part-00003: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 06:39:54 avas clamd[9806]: /var/amavis/amavis-20040312T051937-07480/parts/part-00003: Worm.Mydoom.F FOUND 
+Mar 12 06:43:02 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,52709
+Mar 12 06:43:44 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,52735
+Mar 12 06:52:18 avas clamd[10092]: /var/amavis/amavis-20040312T042432-06165/parts/part-00002: Worm.SomeFool.I FOUND 
+Mar 12 06:52:54 avas dccifd[10103]: write(MTA socket,87): Broken pipe
+Mar 12 06:53:17 avas clamd[10112]: /var/amavis/amavis-20040312T055910-08462/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 06:53:57 avas clamd[10127]: /var/amavis/amavis-20040312T061512-08807/parts/part-00004: Worm.SomeFool.I FOUND 
+Mar 12 06:56:49 avas clamd[10156]: /var/amavis/amavis-20040312T063319-09288/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 07:06:39 avas clamd[10433]: /var/amavis/amavis-20040312T061022-08729/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 07:10:12 avas dccd[2818]: "packet length 44 too small for REPORT" sent to client 1 at 69.7.33.8,43315
+Mar 12 07:12:37 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 07:26:50 avas clamd[10820]: /var/amavis/amavis-20040312T070453-09931/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 07:27:18 avas clamd[10829]: /var/amavis/amavis-20040312T070453-09931/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 07:59:35 avas clamd[11562]: /var/amavis/amavis-20040312T054847-08139/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:04:58 avas clamd[11721]: /var/amavis/amavis-20040312T061026-08731/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:07:16 avas clamd[11756]: /var/amavis/amavis-20040312T074740-10969/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:09:08 avas clamd[11782]: /var/amavis/amavis-20040312T061314-08760/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:13:14 avas clamd[27173]: SelfCheck: Database status OK. 
+Mar 12 08:15:01 avas clamd[11959]: /var/amavis/amavis-20040312T060425-08530/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:24:25 avas clamd[12311]: /var/amavis/amavis-20040312T063438-09304/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:26:01 avas clamd[12411]: /var/amavis/amavis-20040312T070453-09931/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:26:43 avas clamd[12427]: /var/amavis/amavis-20040312T061128-08736/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:27:20 avas clamd[12442]: /var/amavis/amavis-20040312T082720-12118/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:28:01 avas clamd[12461]: /var/amavis/amavis-20040312T082747-12122/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:31:33 avas clamd[12639]: /var/amavis/amavis-20040312T083133-12293/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:35 avas clamd[12643]: /var/amavis/amavis-20040312T075518-11096/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:37 avas clamd[12648]: /var/amavis/amavis-20040312T083133-12293/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:38 avas clamd[12657]: /var/amavis/amavis-20040312T083133-12293/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:40 avas clamd[12661]: /var/amavis/amavis-20040312T063606-09322/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:41 avas clamd[12666]: /var/amavis/amavis-20040312T083133-12293/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:43 avas clamd[12671]: /var/amavis/amavis-20040312T063606-09322/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:45 avas clamd[12676]: /var/amavis/amavis-20040312T083133-12293/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:46 avas clamd[12680]: /var/amavis/amavis-20040312T063606-09322/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:49 avas clamd[12689]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:51 avas clamd[12694]: /var/amavis/amavis-20040312T081455-11508/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:31:58 avas clamd[12703]: /var/amavis/amavis-20040312T081455-11508/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:01 avas clamd[12707]: /var/amavis/amavis-20040312T075624-11186/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:03 avas clamd[12712]: /var/amavis/amavis-20040312T081455-11508/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:07 avas clamd[12721]: /var/amavis/amavis-20040312T081455-11508/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:09 avas clamd[12725]: /var/amavis/amavis-20040312T060517-08544/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:10 avas clamd[12730]: /var/amavis/amavis-20040312T081455-11508/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:11 avas clamd[12739]: /var/amavis/amavis-20040312T060640-08584/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:15 avas clamd[12744]: /var/amavis/amavis-20040312T081455-11508/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:18 avas clamd[12749]: /var/amavis/amavis-20040312T072336-10347/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:20 avas clamd[12753]: /var/amavis/amavis-20040312T081455-11508/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:21 avas clamd[12762]: /var/amavis/amavis-20040312T081455-11508/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:23 avas clamd[12768]: /var/amavis/amavis-20040312T081646-11540/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:24 avas clamd[12773]: /var/amavis/amavis-20040312T082540-11982/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:26 avas clamd[12777]: /var/amavis/amavis-20040312T081646-11540/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:27 avas clamd[12781]: /var/amavis/amavis-20040312T082540-11982/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:29 avas clamd[12785]: /var/amavis/amavis-20040312T070351-09897/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:30 avas clamd[12789]: /var/amavis/amavis-20040312T082540-11982/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:31 avas clamd[12793]: /var/amavis/amavis-20040312T070351-09897/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:33 avas clamd[12797]: /var/amavis/amavis-20040312T082540-11982/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:34 avas clamd[12802]: /var/amavis/amavis-20040312T070351-09897/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:36 avas clamd[12807]: /var/amavis/amavis-20040312T082540-11982/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:37 avas clamd[12811]: /var/amavis/amavis-20040312T070351-09897/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:38 avas clamd[12817]: /var/amavis/amavis-20040312T082540-11982/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:32:40 avas clamd[12821]: /var/amavis/amavis-20040312T082543-12014/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:35:27 avas clamd[12933]: /var/amavis/amavis-20040312T061353-08790/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:37:26 avas clamd[13011]: /var/amavis/amavis-20040312T083726-12682/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:45:53 avas clamd[13293]: /var/amavis/amavis-20040312T083527-12485/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:49:51 avas clamd[13404]: /var/amavis/amavis-20040312T083942-12741/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:49:53 avas clamd[13408]: /var/amavis/amavis-20040312T075705-11201/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:49:55 avas clamd[13412]: /var/amavis/amavis-20040312T083942-12741/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:49:56 avas clamd[13416]: /var/amavis/amavis-20040312T075705-11201/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:49:58 avas clamd[13421]: /var/amavis/amavis-20040312T083942-12741/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:49:59 avas clamd[13426]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:00 avas clamd[13504]: /var/amavis/amavis-20040312T083942-12741/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:02 avas clamd[13509]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:03 avas clamd[13518]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:05 avas clamd[13522]: /var/amavis/amavis-20040312T072336-10347/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:06 avas clamd[13527]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:08 avas clamd[13532]: /var/amavis/amavis-20040312T072336-10347/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:10 avas clamd[13538]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:11 avas clamd[13543]: /var/amavis/amavis-20040312T081646-11540/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:13 avas clamd[13548]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:15 avas clamd[13552]: /var/amavis/amavis-20040312T081646-11540/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:16 avas clamd[13557]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:18 avas clamd[13562]: /var/amavis/amavis-20040312T081646-11540/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:19 avas clamd[13566]: /var/amavis/amavis-20040312T084010-12764/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:21 avas clamd[13570]: /var/amavis/amavis-20040312T081646-11540/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:22 avas clamd[13575]: /var/amavis/amavis-20040312T084010-12764/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:24 avas clamd[13581]: /var/amavis/amavis-20040312T081646-11540/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:25 avas clamd[13590]: /var/amavis/amavis-20040312T082543-12014/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:27 avas clamd[13595]: /var/amavis/amavis-20040312T085026-13171/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:30 avas clamd[13600]: /var/amavis/amavis-20040312T082543-12014/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:31 avas clamd[13605]: /var/amavis/amavis-20040312T085026-13171/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:33 avas clamd[13610]: /var/amavis/amavis-20040312T082543-12014/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:34 avas clamd[13615]: /var/amavis/amavis-20040312T085026-13171/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:36 avas clamd[13623]: /var/amavis/amavis-20040312T085035-13173/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:37 avas clamd[13627]: /var/amavis/amavis-20040312T082543-12014/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:39 avas clamd[13631]: /var/amavis/amavis-20040312T085035-13173/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:40 avas clamd[13635]: /var/amavis/amavis-20040312T082543-12014/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:42 avas clamd[13641]: /var/amavis/amavis-20040312T085035-13173/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:43 avas clamd[13646]: /var/amavis/amavis-20040312T081828-11691/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:44 avas clamd[13650]: /var/amavis/amavis-20040312T083318-12386/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:50:50 avas clamd[13654]: /var/amavis/amavis-20040312T081828-11691/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:07 avas clamd[13663]: /var/amavis/amavis-20040312T081828-11691/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:21 avas clamd[13671]: /var/amavis/amavis-20040312T081828-11691/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:22 avas clamd[13679]: /var/amavis/amavis-20040312T081828-11691/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:23 avas clamd[13684]: /var/amavis/amavis-20040312T084153-12859/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:25 avas clamd[13691]: /var/amavis/amavis-20040312T081828-11691/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:27 avas clamd[13700]: /var/amavis/amavis-20040312T082608-12107/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:28 avas clamd[13704]: /var/amavis/amavis-20040312T075926-11239/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:29 avas clamd[13708]: /var/amavis/amavis-20040312T082608-12107/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:31 avas clamd[13713]: /var/amavis/amavis-20040312T075926-11239/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:32 avas clamd[13719]: /var/amavis/amavis-20040312T082608-12107/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:34 avas clamd[13724]: /var/amavis/amavis-20040312T084339-12885/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:35 avas clamd[13729]: /var/amavis/amavis-20040312T082608-12107/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:36 avas clamd[13734]: /var/amavis/amavis-20040312T084339-12885/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:38 avas clamd[13738]: /var/amavis/amavis-20040312T082608-12107/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:39 avas clamd[13745]: /var/amavis/amavis-20040312T082608-12107/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:40 avas clamd[13750]: /var/amavis/amavis-20040312T082646-12112/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:42 avas clamd[13756]: /var/amavis/amavis-20040312T081836-11710/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:43 avas clamd[13760]: /var/amavis/amavis-20040312T082646-12112/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:51:45 avas clamd[13764]: /var/amavis/amavis-20040312T081836-11710/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:15 avas clamd[13792]: /var/amavis/amavis-20040312T082720-12118/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:17 avas clamd[13797]: /var/amavis/amavis-20040312T082739-12119/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:18 avas clamd[13801]: /var/amavis/amavis-20040312T082720-12118/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:20 avas clamd[13806]: /var/amavis/amavis-20040312T082739-12119/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:21 avas clamd[13811]: /var/amavis/amavis-20040312T082720-12118/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:22 avas clamd[13815]: /var/amavis/amavis-20040312T082739-12119/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:24 avas clamd[13819]: /var/amavis/amavis-20040312T082720-12118/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:25 avas clamd[13823]: /var/amavis/amavis-20040312T082739-12119/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:27 avas clamd[13828]: /var/amavis/amavis-20040312T082720-12118/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:28 avas clamd[13832]: /var/amavis/amavis-20040312T082739-12119/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:30 avas clamd[13836]: /var/amavis/amavis-20040312T082720-12118/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:32 avas clamd[13842]: /var/amavis/amavis-20040312T082739-12119/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:34 avas clamd[13846]: /var/amavis/amavis-20040312T082720-12118/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:35 avas clamd[13851]: /var/amavis/amavis-20040312T082739-12119/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:36 avas clamd[13856]: /var/amavis/amavis-20040312T074740-10969/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:39 avas clamd[13861]: /var/amavis/amavis-20040312T085239-13266/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:41 avas clamd[13865]: /var/amavis/amavis-20040312T074740-10969/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:44 avas clamd[13870]: /var/amavis/amavis-20040312T085239-13266/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:46 avas clamd[13875]: /var/amavis/amavis-20040312T074740-10969/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:49 avas clamd[13886]: /var/amavis/amavis-20040312T082742-12121/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:51 avas clamd[13890]: /var/amavis/amavis-20040312T082846-12127/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:55 avas clamd[13895]: /var/amavis/amavis-20040312T082742-12121/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:52:59 avas clamd[13900]: /var/amavis/amavis-20040312T082846-12127/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:53:02 avas clamd[13904]: /var/amavis/amavis-20040312T082742-12121/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:53:05 avas clamd[13909]: /var/amavis/amavis-20040312T082846-12127/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:53:09 avas clamd[13913]: /var/amavis/amavis-20040312T082742-12121/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:53:11 avas clamd[13917]: /var/amavis/amavis-20040312T082846-12127/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:55:02 avas dccifd[13965]: missing message body
+Mar 12 08:55:08 avas dccifd[13973]: missing message body
+Mar 12 08:55:46 avas clamd[13988]: /var/amavis/amavis-20040312T083049-12270/parts/part-00002: Worm.SomeFool.Gen-1 FOUND 
+Mar 12 08:56:11 avas clamd[14002]: /var/amavis/amavis-20040312T082106-11897/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:00 avas clamd[14027]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:02 avas clamd[14032]: /var/amavis/amavis-20040312T083726-12682/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:04 avas clamd[14036]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:06 avas clamd[14040]: /var/amavis/amavis-20040312T083726-12682/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:08 avas clamd[14044]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:12 avas clamd[14048]: /var/amavis/amavis-20040312T083726-12682/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:14 avas clamd[14053]: /var/amavis/amavis-20040312T083149-12313/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:16 avas clamd[14057]: /var/amavis/amavis-20040312T082457-11961/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:19 avas clamd[14061]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:22 avas clamd[14066]: /var/amavis/amavis-20040312T082457-11961/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:24 avas clamd[14070]: /var/amavis/amavis-20040312T083149-12313/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:26 avas clamd[14075]: /var/amavis/amavis-20040312T082457-11961/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:28 avas clamd[14080]: /var/amavis/amavis-20040312T083149-12313/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:30 avas clamd[14085]: /var/amavis/amavis-20040312T082457-11961/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:32 avas clamd[14089]: /var/amavis/amavis-20040312T075624-11186/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:34 avas clamd[14094]: /var/amavis/amavis-20040312T082457-11961/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:37 avas clamd[14098]: /var/amavis/amavis-20040312T075624-11186/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:39 avas clamd[14103]: /var/amavis/amavis-20040312T082457-11961/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:41 avas clamd[14109]: /var/amavis/amavis-20040312T075624-11186/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:43 avas clamd[14115]: /var/amavis/amavis-20040312T085743-13396/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:45 avas clamd[14120]: /var/amavis/amavis-20040312T083933-12727/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:47 avas clamd[14125]: /var/amavis/amavis-20040312T085743-13396/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:52 avas clamd[14130]: /var/amavis/amavis-20040312T083933-12727/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:57:57 avas clamd[14137]: /var/amavis/amavis-20040312T083933-12727/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:02 avas clamd[14142]: /var/amavis/amavis-20040312T075705-11201/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:05 avas clamd[14147]: /var/amavis/amavis-20040312T083933-12727/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:07 avas clamd[14151]: /var/amavis/amavis-20040312T075705-11201/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:09 avas clamd[14156]: /var/amavis/amavis-20040312T083933-12727/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:12 avas clamd[14160]: /var/amavis/amavis-20040312T083942-12741/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:14 avas clamd[14164]: /var/amavis/amavis-20040312T083933-12727/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:18 avas clamd[14168]: /var/amavis/amavis-20040312T083942-12741/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:20 avas clamd[14173]: /var/amavis/amavis-20040312T083933-12727/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:22 avas clamd[14178]: /var/amavis/amavis-20040312T083942-12741/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:24 avas clamd[14184]: /var/amavis/amavis-20040312T083933-12727/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:28 avas clamd[14193]: /var/amavis/amavis-20040312T085828-13577/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:33 avas clamd[14198]: /var/amavis/amavis-20040312T085833-13586/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:35 avas clamd[14203]: /var/amavis/amavis-20040312T085828-13577/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:38 avas clamd[14207]: /var/amavis/amavis-20040312T085833-13586/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:40 avas clamd[14211]: /var/amavis/amavis-20040312T085828-13577/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:43 avas clamd[14215]: /var/amavis/amavis-20040312T085833-13586/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:45 avas clamd[14220]: /var/amavis/amavis-20040312T085828-13577/parts/part-00003: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:47 avas clamd[14224]: /var/amavis/amavis-20040312T084041-12813/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:49 avas clamd[14228]: /var/amavis/amavis-20040312T085828-13577/parts/part-00002: Worm.SomeFool.Gen-2 FOUND 
+Mar 12 08:58:51 avas clamd[1
