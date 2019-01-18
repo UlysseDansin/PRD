@@ -24,7 +24,8 @@
 # | Ver. |   Date   |  RA  | Aut.   | Commentaire                                           |
 # +-----------------------------------------------------------------------------------------+
 # | 1.0.0 |10/01/2019|  --  |  L  | Modif separation() pour séparer toutes les 1000 lignes au lieu de 30ko |
-
+# +-----------------------------------------------------------------------------------------+
+# | 1.1.0 |18/01/2019|  --  |  L  | Modif Selection_sequences_par_fichier() et Ajout_reponse() |
 
 ##################################################################################################################
 #imports
@@ -306,22 +307,16 @@ def Selection_sequences_par_fichier(log_selection,Nb_caractere_sortie,Nombre_de_
     #poids_dossier_log.append(os.path.getsize(log_selection))
     contenu = fichier_source.read().replace("(","").replace(")","").replace("{","").replace("}","").replace("[","").replace("]","").replace("<","").replace(">","").replace("	"," ")
 
-    mots = contenu.split(" ")
     fichier_source.close()
-               
-    dictionary = Counter(mots)
-    most_common = dictionary.most_common(Nombre_de_sequence)
+    
     global Nombre_log_separe
     nb = Nombre_log_separe
     os.chdir(chemin_txts_sequences)
     nom_texte_sequence = "log" + str(nb) + ".txt"
     Nombre_log_separe = Nombre_log_separe + 1
     fichier_destination = open(nom_texte_sequence,"w+")
-    
-    for j in range (0,Nombre_de_sequence):
-        new_contenu = most_common[j][0]
-        new_contenu = new_contenu + ','
-        fichier_destination.write(new_contenu)
+        
+    fichier_destination.write(contenu)
     
     fichier_destination.close()
 #_________________________________________________________________________________________________________________
@@ -338,36 +333,15 @@ def Selection_sequences_par_fichier(log_selection,Nb_caractere_sortie,Nombre_de_
 def Selection_sequences_par_fichier_runer(log_selection,Nb_caractere_sortie,Nombre_de_sequence,chemin_donnee):
     print("________________________________________")
     print("Lecture de ",log_selection," en cours...")
-    os.chdir(chemin_donnee)
+    os.chdir(chemin_log_separer)
     fichier_source = open(log_selection, "r+")
     
     #poids_dossier_log.append(os.path.getsize(log_selection))
-    contenu = fichier_source.read().replace(" ",",").replace("\n",",").replace("	",",").replace(",,",",").replace(",,",",").replace(",,",",").replace(",,",",")
-    new_contenu = ""
-    mots = contenu.split(",")
-    fichier_source.close()
-    bar3 = ProgressBar(len(mots)-2)
-    for m in range(0,len(mots)-2):
-        mot=mots[m]
-        if len(mot)<Nb_caractere_sortie:
-            new_contenu = new_contenu + mot + ","
-        else:
-            partie_mot = len(mot)- Nb_caractere_sortie + 1
-            for y in range(0,partie_mot):
-                new_contenu = new_contenu + mot[y:y+Nb_caractere_sortie] + ","
-        bar3.update()
+    contenu = fichier_source.read().replace("(","").replace(")","").replace("{","").replace("}","").replace("[","").replace("]","").replace("<","").replace(">","").replace("	"," ")
 
-    new_contenu = new_contenu.split(",")                
-    dictionary = Counter(new_contenu)
-    most_common = dictionary.most_common(Nombre_de_sequence)
-    sequences_ = ""
-    for j in range (0,Nombre_de_sequence):
-        if j < Nombre_de_sequence-1:
-            new_contenu = most_common[j][0] + ','
-        else:
-            new_contenu = most_common[j][0]
-        sequences_ = sequences_ + new_contenu
-    return sequences_
+    fichier_source.close()
+    
+    return contenu
 
 #_________________________________________________________________________________________________________________
 #Fin de la def Selection_sequences_par_fichier()
@@ -381,28 +355,31 @@ def Selection_sequences_par_fichier_runer(log_selection,Nb_caractere_sortie,Nomb
 #Sortie : -Fichier texte avec les séquences et les réponses
 ##################################################################################################################
 def Ajout_reponse():
-    
-    os.chdir(chemin_log_separer)
-    liste_sep = os.listdir(chemin_log_separer)
     os.chdir(chemin_txts_sequences)
     liste_txt_sequ = os.listdir(chemin_txts_sequences)
     Nombre_log_sep = len(liste_txt_sequ) 
+    print("debut_ajout_rep --> ", Nombre_log_sep)
     for i in range(0,Nombre_log_sep):
-
-        os.chdir(chemin_log_separer)
-        fichier_ouvert = open(liste_sep[i],"r+")
-        nom = fichier_ouvert.name
-        nom = nom.split(".")
-        nom = nom[0].split("_")
-        reponse = nom[2].upper() + "_" + nom[3].upper() 
-        fichier_ouvert.close()
         os.chdir(chemin_txts_sequences)
-        fichier_ouvert = open(liste_txt_sequ[i],"r+")
-        contenu_sequence = fichier_ouvert.read()
+        fichier_ouvert = open(liste_txt_sequ[i],"r")
+        nb_ligne = 0
+        lignes = []
+        contenu_i = ""
+        for line in fichier_ouvert:
+            nb_ligne += 1
+            lignes.append(line)
+        print("nb_ligne",nb_ligne)
+        for y in range(0,nb_ligne):
+            ligne = lignes[y].split(" ")
+            reponse = " --important--"
+            for z in range(0,len(ligne)-1):
+                if (ligne[z]=="info"):
+                    reponse = " --pas important--"
+                contenu_i = contenu_i + ligne[z] + " "
+            contenu_i = contenu_i + reponse + "\n"
         fichier_ouvert.close()
-        fichier_ouvert = open(liste_txt_sequ[i],"w+")
-        contenu_avec_reponse = contenu_sequence + "--" + reponse + "--"
-        fichier_ouvert.write(contenu_avec_reponse)
+        fichier_ouvert = open(liste_txt_sequ[i],"w")
+        fichier_ouvert.write(contenu_i)
         fichier_ouvert.close()
 #_________________________________________________________________________________________________________________
 #Fin de la def Ajout_reponse()

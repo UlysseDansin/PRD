@@ -1,1 +1,1000 @@
-SSL,err,rro,ror,HTT,TTP,est,ing,to,[in,inf,nfo,fo],160,tes,.16,ent,Ope,pen,enS,nSS,[er,or],:SS,TPS,por,ort,140,116,of,pro,See,eed,edi,din,PRN,RNG,wit,ith,byt,yte,int,ion,(se,ser,erv,rve,ver,www,ww.,--APACHE_LOG--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+info  Spurious SSL handshake interruptHint: Usually just one of those OpenSSL  --pas important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 135 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 52 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 38 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 125 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 40 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 52 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 136 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 140 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 52 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 45 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 81 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 140 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 140 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 52 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 81 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 45 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 5 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 140 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 1 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 40 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 1 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 4 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 71 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 1 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 4 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 71 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 1 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 89 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 4 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 89 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 84 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 99 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 13 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 89 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 88 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 89 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 62 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 66 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed server www.ssltestproxy.net:443, client 217.160.165.173 OpenSSL library error  --important--
+error OpenSSL: error:140760FC:SSL routines:SSL23_GET_CLIENT_HELLO:unknown protocol Hint: speaking not SSL to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 54 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 91 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 66 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 89 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 88 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 63 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 91 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 108 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 63 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 55 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 98 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 105 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 37 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 108 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 105 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 104 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 106 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 106 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 94 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 51 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 115 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 2 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 104 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 2 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 111 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 114 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 122 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 78 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 106 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 79 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 111 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 127 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 24 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 122 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 127 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 2 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 106 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 79 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 129 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 36 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 127 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 56 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 79 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 122 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 127 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 106 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 122 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 36 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 83 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 129 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 143 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 118 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 23 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 129 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 96 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 116 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 32 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 118 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 96 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 33 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 134 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 47 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 134 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 18 established server www.ssltestproxy.net:443, client  --pas important--
+info  Connection to child 96 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 17 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 35 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 124 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 126 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 117 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 39 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 33 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 112 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 128 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 41 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 41 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 14 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 18 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 26 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 33 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 41 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 112 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 59 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 42 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 18 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 26 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 112 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 59 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 39 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 25 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 3 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 59 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 50 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 28 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 25 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 130 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 86 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 50 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 38 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 139 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 40 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 143 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 13 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 13 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 57 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 8 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 48 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 66 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 9 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 113 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 2 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 78 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 79 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 75 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 56 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 36 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 122 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 85 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 83 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 16 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 0 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 97 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 15 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 15 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 23 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 109 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 34 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 20 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 42 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 112 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 101 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
+error SSL handshake failed: HTTP spoken on HTTPS port; trying to send HTML error page OpenSSL library error  --important--
+error OpenSSL: error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request Hint: speaking HTTP to HTTPS  --important--
+info  Connection to child 124 established server www.ssltestproxy.net:443, client  --pas important--
+info  Seeding PRNG with 1160 bytes of  --pas important--
