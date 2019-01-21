@@ -292,7 +292,7 @@ def Deplacement_fichier(taille_max):
 #Entrée : Fichier log
 #Sortie : -Fichier texte avec les séquences 
 ##################################################################################################################
-def Selection_sequences_par_fichier(log_selection,Nb_caractere_sortie,Nombre_de_sequence):
+def Selection_mot_par_fichier(log_selection,Nb_caractere_sortie):
     
     os.chdir(chemin)
     try:
@@ -358,7 +358,6 @@ def Ajout_reponse():
     os.chdir(chemin_txts_sequences)
     liste_txt_sequ = os.listdir(chemin_txts_sequences)
     Nombre_log_sep = len(liste_txt_sequ) 
-    print("debut_ajout_rep --> ", Nombre_log_sep)
     for i in range(0,Nombre_log_sep):
         os.chdir(chemin_txts_sequences)
         fichier_ouvert = open(liste_txt_sequ[i],"r")
@@ -368,7 +367,6 @@ def Ajout_reponse():
         for line in fichier_ouvert:
             nb_ligne += 1
             lignes.append(line)
-        print("nb_ligne",nb_ligne)
         for y in range(0,nb_ligne):
             ligne = lignes[y].split(" ")
             reponse = " --important--"
@@ -403,14 +401,12 @@ def Creation_fichier_apprentissage():
         Nombre_de_fichier_txt = len(liste_fichier_txt)
         base_apprentissage = ""
         for i in range(0,Nombre_de_fichier_txt):
-            if (i<Nombre_de_fichier_txt-1):
-
+            if (i<Nombre_de_fichier_txt-2):
                 fichier_en_cours = open(liste_fichier_txt[i],"r+")
                 contenu = fichier_en_cours.read()
-                base_apprentissage = base_apprentissage + contenu + "\n"
+                base_apprentissage = base_apprentissage + contenu
                 fichier_en_cours.close()
             else:
-
                 fichier_en_cours = open(liste_fichier_txt[i],"r+")
                 contenu = fichier_en_cours.read()
                 base_apprentissage = base_apprentissage + contenu
@@ -473,7 +469,7 @@ def Main_base_apprentissage(Nb_seq,taille_max):
         Nombre_log = len(liste_log_sep)
         bar = ProgressBar(Nombre_log)
         for i in range(0,Nombre_log):
-            Selection_sequences_par_fichier(liste_log_sep[i],3,Nb_seq)
+            Selection_mot_par_fichier(liste_log_sep[i],3)
             bar.update()
         print()
         print("***************************")
