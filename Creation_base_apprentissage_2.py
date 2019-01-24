@@ -305,7 +305,7 @@ def Selection_mot_par_fichier(log_selection,Nb_caractere_sortie):
     fichier_source = open(log_selection, "r+")
     
     #poids_dossier_log.append(os.path.getsize(log_selection))
-    contenu = fichier_source.read().replace("(","").replace(")","").replace("{","").replace("}","").replace("[","").replace("]","").replace("<","").replace(">","").replace("	"," ")
+    contenu = fichier_source.read().replace("(","").replace(")","").replace("{","").replace("}","").replace("[","").replace("]","").replace("<","").replace(">","").replace("	"," ").replace("_"," ").replace("  "," ").replace(","," ").replace("  "," ")
 
     fichier_source.close()
     
@@ -369,10 +369,10 @@ def Ajout_reponse():
             lignes.append(line)
         for y in range(0,nb_ligne):
             ligne = lignes[y].split(" ")
-            reponse = " --important--"
+            reponse = "--important--"
             for z in range(0,len(ligne)-1):
                 if (ligne[z]=="info"):
-                    reponse = " --pas important--"
+                    reponse = "--pas_important--"
                 contenu_i = contenu_i + ligne[z] + " "
             contenu_i = contenu_i + reponse + "\n"
         fichier_ouvert.close()

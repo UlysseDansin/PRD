@@ -34,10 +34,10 @@ import shutil
 import Creation_base_apprentissage_2 as crea
 import ML_formats as ML
 
-Nb_seq = 50
-taille_max_lignes_des_fichiers = 1000
-crea.Main_base_apprentissage(Nb_seq,taille_max_lignes_des_fichiers)
-#ML.Main_machine_learning(Nb_seq)
+Nb_mot_max = 15
+taille_max_lignes_des_fichiers = 10000
+#crea.Main_base_apprentissage(Nb_mot_max,taille_max_lignes_des_fichiers)
+ML.Main_machine_learning(Nb_mot_max)
 
 
 
