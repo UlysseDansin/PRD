@@ -157,7 +157,8 @@ def codage(seq,nb_seq):
                 
                         
         #print(Data_matrix_int, "= Data_matrix_int")
-        #print(Data_matrix_mot_int, "= Data_matrix_mot_int")
+        print(Data_matrix_mot_int, "= Data_matrix_mot_int")
+        
         #*****************************************************************************************************************
 
         ##################################################################################################################
@@ -175,32 +176,30 @@ def codage(seq,nb_seq):
         n = Dm[0]
         #print(Dm)
 
-        z=numpy.zeros((n,4))
+        z=numpy.zeros((n,3))
 
         for i in range(0,nombre_de_ligne):
                 ligne = data[i].split(",")
+                print(ligne[len(ligne)-1])
                 if  ligne[len(ligne)-1] == "--XML--":
                         z[i,0]=1
                         z[i,1]=0
                         z[i,2]=0
-                        z[i,3]=0
+
                 elif ligne[len(ligne)-1] == "--SYSLOG--":
                         z[i,0]=0
                         z[i,1]=2
                         z[i,2]=0
-                        z[i,3]=0
-                elif ligne[len(ligne)-1] == "--log4j--":
+
+                elif ligne[len(ligne)-1] == "--LOG4J--":
                         z[i,0]=0
                         z[i,1]=0
                         z[i,2]=3
-                        z[i,3]=0
-                elif ligne[len(ligne)-1] == "--CSV--":
-                        z[i,0]=0
-                        z[i,1]=0
-                        z[i,2]=0
-                        z[i,3]=4
+                        
+                
 
-        #print(z)
+        print(z)
+        print("shape",numpy.shape(z))
         #*****************************************************************************************************************
 
         ##################################################################################################################
@@ -218,7 +217,7 @@ def codage(seq,nb_seq):
 
 def Main_machine_learning(Nb_de_most_common_word):
         print("#########################################################")
-        print("Début du programme d'apprentissage")
+        print("Début du programme d'apprentissage FORMAT")
         print("#########################################################")
         ##################################################################################################################
         # lecture et preparation des donnees
@@ -265,7 +264,7 @@ def Main_machine_learning(Nb_de_most_common_word):
         model.add(Dense(units=500,input_dim=1000,activation="relu"))
         model.add(Dense(units=250,input_dim=500,activation="relu"))
         keras.layers.Dropout(0.1)
-        model.add(Dense(units=4,input_dim=250,activation="softmax"))
+        model.add(Dense(units=3,input_dim=250,activation="softmax"))
         #*****************************************************************************************************************
 
 
@@ -286,14 +285,14 @@ def Main_machine_learning(Nb_de_most_common_word):
         #XTestStd = cr.transform(XTest)
         #vd = (XTestStd, yTest)
         
-        history = model.fit(XTrainStd,zTrain,epochs=100,batch_size=10)#,validation_split=0.33)
+        history = model.fit(XTrainStd,zTrain,epochs=150,batch_size=10)#,validation_split=0.33)
 
         # poids synaptiques
         #print(model.get_weights())
 
         # list all data in history
         #print(history.history.keys())
-        """
+        
         # summarize history for accuracy
         # courbe de precision lors de l apprentissage
         plt.plot(history.history['acc'])
@@ -315,7 +314,7 @@ def Main_machine_learning(Nb_de_most_common_word):
         plt.xlabel('epoch')
         #plt.legend(['train', 'test'], loc='upper left')
         plt.show()
-        """
+        
         #*****************************************************************************************************************
         ##################################################################################################################
         # Sauvegarde du modele
@@ -352,5 +351,5 @@ def Main_machine_learning(Nb_de_most_common_word):
 
 
         print("#########################################################")
-        print("Fin du programme d'apprentissage")
+        print("Fin du programme d'apprentissage FORMAT")
         print("#########################################################")

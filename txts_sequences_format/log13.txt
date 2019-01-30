@@ -1,1 +1,1 @@
-.0.,ava,vas,Mar,10,nam,ame,10:,0.1,0:1,med,ed[,0.0,127,27.,6]:,7.0,d[6,[69,698,986,86],.1#,1#5,que,ent,cli,lie,ien,#56,uer,ery,ry:,IN,:18,18:,566,A,vis,000,art,/am,ama,mav,avi,/pa,par,:17,17:,.ca,--LOG--
+col,":",fic,ic-,c-a,--SYSLOG--

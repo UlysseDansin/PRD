@@ -133,9 +133,10 @@ while True:
                 if (prediction_format[0]==0):
                     print("Prediction: [XML]")
                 elif (prediction_format[0]==1):
-                    print("Prediction: [LOG]")
+                    print("Prediction: [SYSLOG]")
+            
                 else:
-                    print("Prediction: [JSON]")
+                    print("Prediction: [LOG4J]")
 
             except:
                 print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
@@ -147,11 +148,15 @@ while True:
                 print("Prédiction effectuée avec succès")
                 print("Prédiction SOURCE : ",prediction_source)
                 if (prediction_source[0]==0):
-                    print("Prediction: [APACHE]")
+                    print("Prediction: [EVENT]")
                 elif (prediction_source[0]==1):
-                    print("Prediction: [IIS]")
+                    print("Prediction: [EVENEMENT]")
+                elif (prediction_source[0]==2):
+                    print("Prediction: [APACHE24]")
+                elif (prediction_source[0]==3):
+                    print("Prediction: [AUDITD]")
                 else:
-                    print("Prediction: [WINDOWS]")
+                    print("Prediction: [SSHD]")
             except:
                 print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
                 print("Problème lors de la prédiction du format")

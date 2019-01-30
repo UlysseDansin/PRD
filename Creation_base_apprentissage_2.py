@@ -258,7 +258,7 @@ def separation(log_a_sep,taille_max):
         if ( nb_underscore == 2 or nb_underscore == 3):
             nom = nom[0].split("_")
             try:
-                nom = nom[0] + "_" + nom[1] + "_" + nom[2] + "_" + nom[3] + ".part" + str(m)
+                nom = nom[0] + "_" + nom[1] + "_" + nom[2] + ".part" + str(m)
             except:
                 print("Structure du nom du fichier incorrect pour : ",log_a_sep.name)
         else:
@@ -307,7 +307,7 @@ def Deplacement_fichier(taille_max):
             if nb_underscore == 2 or nb_underscore==3:
                 nom_fich_a_dep = nom_fich_a_dep[0].split("_")
                 try:
-                    nom_fich_a_dep = nom_fich_a_dep[0] + "_" + nom_fich_a_dep[1] + "_" + nom_fich_a_dep[2] + "_" + nom_fich_a_dep[3]
+                    nom_fich_a_dep = nom_fich_a_dep[0] + "_" + nom_fich_a_dep[1] + "_" + nom_fich_a_dep[2] 
                 except:
                     print("Structure du nom du fichier incorrect pour : ",fichier_a_deplacer.name)
             else:
@@ -497,7 +497,7 @@ def Ajout_reponse_format():
         nom = fichier_ouvert.name
         nom = nom.split(".")
         nom = nom[0].split("_")
-        reponse = nom[3].upper()
+        reponse = nom[2].upper()
         fichier_ouvert.close()
         os.chdir(chemin_txts_sequences_format)
         fichier_ouvert = open(liste_txt_sequ[i],"r+")
@@ -530,7 +530,7 @@ def Ajout_reponse_source():
         nom = fichier_ouvert.name
         nom = nom.split(".")
         nom = nom[0].split("_")
-        reponse = nom[2].upper()
+        reponse = nom[1].upper()
         fichier_ouvert.close()
         os.chdir(chemin_txts_sequences_source)
         fichier_ouvert = open(liste_txt_sequ[i],"r+")
